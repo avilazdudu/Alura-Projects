@@ -1,6 +1,5 @@
 const btnSortear = document.querySelector("#btn-sortear");
 const btnReiniciar = document.querySelector("#btn-reiniciar");
-
 function sortear() {
     let quantidade = document.querySelector("#quantidade").value;
     let numeroMinimo = document.querySelector("#de").value;
